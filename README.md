@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MagusLLC
+- 👀 I’m interested in open-source projects
+- 🌱 I’m currently learning flutter, react and more
+- 💞️ I’m looking to collaborate on any kind of practical project
+- 📫 How to reach me ..... just <a href="#">fill this form</a>
+- ✨ Thanks for stopping by.
